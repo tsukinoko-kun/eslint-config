@@ -1,0 +1,29 @@
+{
+  "name": "@frank-mayer/eslint-config",
+  "version": "1.0.1",
+  "description": "My personal ESLint config",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "typescript"
+  ],
+  "author": {
+    "name": "Frank Mayer"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "*",
+    "@typescript-eslint/parser": "*",
+    "eslint": "*",
+    "eslint-plugin-unused-imports": "*",
+    "typescript": "*"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "*",
+    "@typescript-eslint/parser": "*",
+    "eslint": "*",
+    "eslint-plugin-unused-imports": "*"
+  }
+}
