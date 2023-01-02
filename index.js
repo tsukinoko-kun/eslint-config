@@ -54,6 +54,7 @@ module.exports = {
         "no-constructor-return": "error",
         "no-debugger": "error",
         "no-self-assign": "error",
+        "no-param-reassign": "error",
         "no-self-compare": "error",
         "no-sequences": "error",
         "no-unreachable": "error",
